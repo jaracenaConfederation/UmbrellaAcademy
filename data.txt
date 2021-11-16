@@ -1,1 +1,3 @@
 red rover
+Johnny Aracena
+ProGit. Everything you need to know about GIT
